@@ -370,3 +370,6 @@ You can reach the Splunk Developer Platform team at _devinfo@splunk.com_.
 ## License
 
 The Splunk Enterprise Software Development Kit for JavaScript is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+
+
+Will this start a status check?
